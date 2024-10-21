@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mahmoud\\Desktop\\Cources\\Cours_C\u002B\u002B\\SinglyLinkedList_DataStructure\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6368EFE-445D-4936-83DC-2A081BA0A7FB}|SinglyLinkedList_DataStructure\\SinglyLinkedList_DataStructure.vcxproj|C:\\Users\\Mahmoud\\Desktop\\Cources\\Cours_C\u002B\u002B\\SinglyLinkedList_DataStructure\\SinglyLinkedList_DataStructure\\SinglyLinkedList_DataStructure.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B6368EFE-445D-4936-83DC-2A081BA0A7FB}|SinglyLinkedList_DataStructure\\SinglyLinkedList_DataStructure.vcxproj|solutionrelative:SinglyLinkedList_DataStructure\\SinglyLinkedList_DataStructure.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SinglyLinkedList_DataStructure.cpp",
+              "DocumentMoniker": "C:\\Users\\Mahmoud\\Desktop\\Cources\\Cours_C\u002B\u002B\\SinglyLinkedList_DataStructure\\SinglyLinkedList_DataStructure\\SinglyLinkedList_DataStructure.cpp",
+              "RelativeDocumentMoniker": "SinglyLinkedList_DataStructure\\SinglyLinkedList_DataStructure.cpp",
+              "ToolTip": "C:\\Users\\Mahmoud\\Desktop\\Cources\\Cours_C\u002B\u002B\\SinglyLinkedList_DataStructure\\SinglyLinkedList_DataStructure\\SinglyLinkedList_DataStructure.cpp",
+              "RelativeToolTip": "SinglyLinkedList_DataStructure\\SinglyLinkedList_DataStructure.cpp",
+              "ViewState": "AQIAACQAAAAAAAAAAAAUwKYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-20T11:11:06.123Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
